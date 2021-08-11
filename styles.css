@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(143,55,231);
+}
+
+#main{
+    border-radius: 25px;
+    background: rgb(0, 0, 0);
+    display: block;
+    padding: 10px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 5%;
+    margin: auto;
+}
